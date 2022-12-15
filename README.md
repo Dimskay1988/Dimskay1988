@@ -13,12 +13,12 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" />
+  <img alt="Odoo" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.odoo.com%2Fweb%2Fimage%2Fwebsite%2F1%2Fsocial_default_image%3Funique%3D8f9cd72&imgrefurl=https%3A%2F%2Fwww.odoo.com%2Fweb%2Flogin&tbnid=tCmmA0qPhkLf5M&vet=12ahUKEwj33OLcoPv7AhWwxQIHHaI1Cu4QMygAegUIARCyAQ..i&docid=_6b99oc9R9rDtM&w=1200&h=627&q=log%20odoo&ved=2ahUKEwj33OLcoPv7AhWwxQIHHaI1Cu4QMygAegUIARCyAQ" />
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
+  <img alt="Xml" src="https://img.icons8.com/wired/64/null/xml-file.png" />
   </br>
 </p>
 

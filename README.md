@@ -18,6 +18,7 @@
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img alt="FaastAPI" src="images/FastAPI_logo.png" />
   <img alt="Xml" src="images/xml.png" />
   </br>
 </p>

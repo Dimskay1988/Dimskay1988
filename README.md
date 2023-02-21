@@ -37,7 +37,7 @@
     <a href="https://www.linkedin.com/in/dmitriy-anikeenko-7704b9a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
+<h3>Statistics </h3>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/odoomates/odooapps?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/odoomates/odooapps?style=plastic)

@@ -8,7 +8,6 @@
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Dimskay1988&show_icons=true&theme=radical"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimskay1988&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
    </table>
-</p>
 
 <h3>My coding stack: </h3>
 <p>
@@ -20,6 +19,7 @@
   <img alt="FaastAPI" src="images/FastAPI_logo.png" />
   <img alt="Odoo" src="images/odoo.png" />
   <img alt="Xml" src="images/xml.png" />
+  <img alt="Grafana" src="images/grafana.png" />
   </br>
 
 <h3>Databases </h3>

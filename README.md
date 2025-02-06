@@ -22,6 +22,7 @@
   <img alt="LLM" src="images/LLM.png"  width="60" height="60"/>
   <img alt="LangChain" src="images/langchain-text.svg" width="100" height="50"/>
   <img alt="LangChain" src="images/langchain-color.svg" width="65" height="55"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-natural-artificial-intelligence-outline-black-m-oki-orlando.png" alt="external-natural-artificial-intelligence-outline-black-m-oki-orlando"/>
   </br>
 
 <h3>Databases </h3>

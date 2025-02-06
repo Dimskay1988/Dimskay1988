@@ -19,6 +19,9 @@
   <img alt="Odoo" src="images/odoo.png" />
   <img alt="Xml" src="images/xml.png" />
   <img alt="Grafana" src="images/grafana.png" />
+  <img alt="LLM" src="images/LLM.png"  width="60" height="60"/>
+  <img alt="LangChain" src="images/langchain-text.svg" width="100" height="50"/>
+  <img alt="LangChain" src="images/langchain-color.svg" width="65" height="55"/>
   </br>
 
 <h3>Databases </h3>

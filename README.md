@@ -20,7 +20,9 @@
   <img alt="Xml" src="images/xml.png" />
   <img alt="Grafana" src="images/grafana.png" />
   <img alt="LLM" src="images/LLM.png"  width="60" height="60"/>
-  <img alt="LangChain" src="images/langchain-text.svg" width="200" height="60"/>
+  [LangChain.Combine](https://langchain.com/)
+
+[//]: # (  <img alt="LangChain" src="images/langchain-text.svg" width="200" height="60"/>)
   <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons.png" alt="external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons"/>
   <img alt="N8N" src="https://cdn.simpleicons.org/n8n" width="90" height="70"/>
   </br>
